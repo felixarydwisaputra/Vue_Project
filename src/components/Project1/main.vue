@@ -25,7 +25,7 @@
         <input type="text" v-model="newTask" placeholder="Input your next task" @keyup.enter="addTask">
         <button @click="addTask">Add Task</button>
       </div>
-      <div v-for="(task, i) in tasks" key="i">
+      <div v-for="(task, i) in tasks" :key="i">
         <div class="tasks">
           <h3>{{task}}</h3>
           <button @click="removeTask(i)">Delete Task</button>
