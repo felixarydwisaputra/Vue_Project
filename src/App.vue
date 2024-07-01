@@ -1,7 +1,8 @@
 <script setup>
-  import Project1 from './components/Project1/main.vue'
-  import Project2 from './components/Project2/main.vue'
-  import Project3 from './components/Project3/main.vue'
+  // import Project1 from './components/Project1/main.vue'
+  // import Project2 from './components/Project2/main.vue'
+  // import Project3 from './components/Project3/main.vue'
+  import Project4 from './components/Project4/main.vue'
 
 </script>
 
@@ -13,5 +14,8 @@
   <!-- <Project2/> -->
 
   <!-- Project 3 -->
-  <Project3/>
+  <!-- <Project3/> -->
+
+  <!-- Project 4 -->
+  <Project4/>
 </template> 
