@@ -55,7 +55,7 @@
 }
 
 .accordion-header {
-  background-color: #3498db;
+  background-color: #34dbcd;
   color: #fff;
   padding: 15px;
   cursor: pointer;

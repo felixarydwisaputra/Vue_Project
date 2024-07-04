@@ -3,6 +3,7 @@
   // import Project2 from './components/Project2/main.vue'
   // import Project3 from './components/Project3/main.vue'
   import Project4 from './components/Project4/main.vue'
+  import Project5 from './components/Project5/main.vue'
 
 </script>
 
@@ -17,5 +18,8 @@
   <!-- <Project3/> -->
 
   <!-- Project 4 -->
-  <Project4/>
+  <!-- <Project4/> -->
+
+  <!-- Project 5 -->
+  <Project5/>
 </template> 
